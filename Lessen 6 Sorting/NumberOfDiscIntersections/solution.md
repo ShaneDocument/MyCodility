@@ -3,8 +3,11 @@
 
 
 def solution(A):
+
     Range = []
+    
     for i,radius in enumerate(A):
+    
         Range.append((i,i-radius,i+radius))
     
     Range.sort(key = lambda s:s[1])
