@@ -2,7 +2,9 @@
 ![image](https://i.imgur.com/Z0Zb7MB.jpg)
 
 
+
 def solution(A):
+
 
     Range = []
     
