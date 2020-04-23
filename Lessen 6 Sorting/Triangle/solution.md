@@ -1,9 +1,8 @@
 
 ![image](https://i.imgur.com/Hyi7SKR.jpg)
 
-
-  def solution(A):
-    
+    def solution(A):
+  
     A.sort()
     for i in range(len(A)):
         if i+2<len(A):
