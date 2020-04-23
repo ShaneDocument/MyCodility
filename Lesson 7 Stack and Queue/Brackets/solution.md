@@ -2,8 +2,8 @@
 
 ![image](https://i.imgur.com/fyJqbFg.jpg)
 
-
-  def solution(S):
+    
+    def solution(S):
       stack = []
       for i in S:
           if i=='(' or i=='[' or i=='{':
