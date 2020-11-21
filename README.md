@@ -1,5 +1,5 @@
 # MyCodility
-My codility solution. They are NOT 100 points, but came out of myself.
+My codility solution. They are NOT perfect, but came out of myself.
 
 
 Hi, my name is Shane. I come from Taiwan. It is nice to meet you.
