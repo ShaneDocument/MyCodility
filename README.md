@@ -1,8 +1,5 @@
 # MyCodility
-My codility solution. They are NOT perfect, but came out of myself.
 
-
-Hi, my name is Shane. I come from Taiwan. It is nice to meet you.
 
 Those are my codility solution, and I solved them by myself. Therefore, they are not perfect even might be wrong.
 Ijust want to record the problems which are done by me, not but share the excellent solution.
